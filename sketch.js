@@ -3,5 +3,6 @@ function setup() {
 }
 
 function draw() {
-    background(220);
+    background(20);
+    circle(50,50,50);
 }
